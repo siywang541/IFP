@@ -20,6 +20,7 @@ pip install -r requirements.txt
   dataset
   ├── noise
   │  ├── xxx.jpg
+     ---
   ```
 
 ## Pretraining
