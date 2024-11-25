@@ -14,9 +14,6 @@ You can install the required libraries for `IFP` by the following command:
 pip install -r requirements.txt
 ```
 
-## Pretrained Models
-Coming Soon.
-
 ## Data preparing
 - The data structure is like this:
   ```
